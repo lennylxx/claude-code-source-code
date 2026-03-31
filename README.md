@@ -4,6 +4,11 @@
 
 ---
 
+Also check out these two cool projects:
+1. [claude_agent_teams_ui](https://github.com/777genius/claude_agent_teams_ui) - You're the CTO, agents are your team. They handle tasks themselves, message each other, review each other's code. You just look at the kanban board and drink coffee.
+2. [claude-notifications-go](https://github.com/777genius/claude-notifications-go) - 🔔 Cross-platform smart notifications plugin for Claude Code. 6 types. Click-to-focus. 1 line installation.
+
+
 ## How It Leaked
 
 [Chaofan Shou (@Fried_rice)](https://x.com/Fried_rice) discovered the leak and posted it publicly:
